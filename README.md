@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Gabriel Feitoza da Silva!
+# 👋 Olá, eu sou o Gabriel Feitoza!
 
 ## 🚀 Estudante de Engenharia da Computação | Desenvolvedor em Formação
 
@@ -10,10 +10,9 @@
 
 🎯 **Sobre mim**
 
-Sou apaixonado por tecnologia e atualmente curso **Engenharia da Computação**.  
-Acredito que programar é muito mais do que escrever código — é **resolver problemas**, **criar experiências** e **transformar ideias em soluções reais**.  
-
-Minha jornada é movida pela curiosidade em entender como o hardware e o software se conectam, sempre buscando evoluir e aprender algo novo todos os dias.  
+Tenho **22 anos** e sou estudante de **Engenharia da Computação**.  
+Gosto de desenvolver soluções práticas, aprender novas tecnologias e entender como software e hardware se conectam.  
+Busco sempre escrever um código limpo, funcional e fácil de manter. 
 
 ---
 
