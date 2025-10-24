@@ -2,10 +2,6 @@
 
 ## 🚀 Estudante de Engenharia da Computação | Desenvolvedor em Formação
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding animation"/>
-</p>
-
 ---
 
 🎯 **Sobre mim**
@@ -21,25 +17,33 @@ Minha jornada é movida pela curiosidade em entender como o hardware e o softwar
 
 Essas são algumas das tecnologias que tenho estudado e utilizado nos meus projetos:
 
-<p align="center">
-  <!-- Linguagens -->
+
+#### 🧠 Linguagens de Programação
+<p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <br/>
-  <!-- Frameworks -->
+</p>
+
+#### ⚙️ Frameworks e Bibliotecas
+<p align="left">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <br/>
-  <!-- Web -->
+</p>
+
+#### 🌐 Desenvolvimento Web
+<p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <br/>
-  <!-- Ferramentas -->
+</p>
+
+#### 🛠️ Ferramentas e Banco de Dados
+<p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
 ---
@@ -54,8 +58,9 @@ Essas são algumas das tecnologias que tenho estudado e utilizado nos meus proje
 
 ### 🌱 O que estou aprendendo atualmente
 
-- Engenharia de Software
-- APIs e Microserviços com **Spring Boot**
+- ⚙️ **Engenharia de Software:** princípios de Clean Code, refatoração e boas práticas de desenvolvimento  
+- 🌐 **APIs e Microserviços:** criação de endpoints RESTful, HTTP Requests e controle de rotas com Spring Boot  
+- 💻 **Desenvolvimento Web:** construção de aplicações dinâmicas com PHP e Laravel  
 
 ---
 
