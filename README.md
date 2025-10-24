@@ -2,6 +2,10 @@
 
 ## 🚀 Estudante de Engenharia da Computação | Desenvolvedor em Formação
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding animation"/>
+</p>
+
 ---
 
 🎯 **Sobre mim**
@@ -29,6 +33,7 @@ Essas são algumas das tecnologias que tenho estudado e utilizado nos meus proje
 #### ⚙️ Frameworks e Bibliotecas
 <p align="left">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 </p>
 
 #### 🌐 Desenvolvimento Web
@@ -43,6 +48,7 @@ Essas são algumas das tecnologias que tenho estudado e utilizado nos meus proje
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code::Blocks-44A833?style=for-the-badge&logo=codeblocks&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
